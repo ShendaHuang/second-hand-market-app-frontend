@@ -1,4 +1,4 @@
-# Second-Hand-Market-App-Frontend
+# Second-Hand Market App Frontend
 
 ## Contribution/Testing Instructions
 
